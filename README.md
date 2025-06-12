@@ -12,8 +12,8 @@ I’m a biologist by education who pivoted into software shortly after finishing
 
 ### 💻 Languages & Tools
 
-- 🐍 **Python** — My go-to and favorite language for scripting (sorry Bash script!), data cleaning/wrangling, and general automation work. Ideas >> Code at the speed of typing. ;)
-- 🇨 **C** — I love C for is simplicty and power to gives. It's great for performance-critical projects and systems programming.
+- 🐍 **Python** — My go-to language for scripting (sorry Bash script!), data cleaning/wrangling, and general automation work. Ideas >> Code at the speed of typing. ;)
+- 🇨 **C** — I love C for its simplicty and power it gives us. It's great for performance-critical projects and systems programming.
 - ⚙️ **Assembly** — For when you when I'm feeling extra adventurous or trying to reverse engineer how something is working. Still beginner with ASM, and mostly play with RISC-V and ARM.
 - 🛠️ Comfortable across the stack. Always exploring and learning!
 
