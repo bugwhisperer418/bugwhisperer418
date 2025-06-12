@@ -21,8 +21,8 @@ I’m a biologist by education who pivoted into software shortly after finishing
 
 ### 🌐 Find Me Online
 
-- 🌍 [Personal Website](https://bugwhisperer.dev/)
-- 🐧 [SourceHut](https://git.sr.ht/~bugwhisperer)
+- ✍🏻 [Personal Website and blog](https://bugwhisperer.dev/)
+- 🛖 [SourceHut](https://git.sr.ht/~bugwhisperer) - This is where most of my prjoects and code live today!
 
 <!--
 **bugwhisperer418/bugwhisperer418** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
