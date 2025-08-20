@@ -1,4 +1,4 @@
-# Hi hiiii! 👋 I’m Andie (they/them)
+# Hi hiiii! 👋 I’m Andie!
 
 I make computers go beep boop!
 
