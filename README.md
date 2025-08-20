@@ -22,4 +22,4 @@ I’m a biologist by education who pivoted into software shortly after finishing
 ### 🌐 Find Me Online
 
 - ✍🏻 [Personal Website and blog](https://bugwhisperer.dev/)
-- 🛖 [SourceHut](https://git.sr.ht/~bugwhisperer) - This is where most of my prjoects and code live today!
+- 🛖 [SourceHut](https://git.sr.ht/~bugwhisperer) - This is where most of my projects and code live!
