@@ -6,7 +6,7 @@ I make computers go beep boop!
 
 ### 🧬 About Me
 
-I’m a biologist by education who jumped into software development shortly after finishing my Masters, self-teaching my way into data science and, later, web development. I’ve spent over 9 years in the software industry in various capacities, doing everything from data wrangling to building robust, scalable web applications. Now, I am happily working with low-level programming and modeling simulations. I spend a lot of my time thinking about how we can use computing to learn more about our world and solve health problems.
+I’m a biologist by education who jumped into software development and data science shortly after finishing my Masters, self-teaching my way into web development. I’ve spent over 9 years in the software industry in various capacities, doing everything from data wrangling to building robust, scalable web applications. Now, I am happily working with low-level programming and modeling simulations. I spend a lot of my time thinking about how we can use computing to learn more about our world and solve health problems.
 
 ---
 
