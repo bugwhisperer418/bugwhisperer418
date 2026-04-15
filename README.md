@@ -16,3 +16,4 @@ I’m a biologist by education who jumped into software development and data sci
 ## 🌐 Find Me Online
 - ✍🏻 [Personal Website and blog](https://bugwhisperer.dev/)
 - 🛖 [SourceHut](https://git.sr.ht/~bugwhisperer) - This is where most of my projects live!
+- 📔 [Fern](https://fern.inodelabs.org) - Terminal UI Notetakeing and Journaling app
