@@ -7,13 +7,12 @@ I’m a biologist by education who jumped into software development and data sci
 
 ## 💻 Languages & Tools
 - 🐍 **Python**: My go-to language for scripting (sorry Bash script!), data wrangling, and general automation work. Ideas >> Code at the speed of typing.
-- 🇨 **C**: I love C for the simplicty and power it gives developers. It's great for performance-critical projects and systems programming.
 - 🇬 **Go Lang**: A sweet middle ground between high-level Python and low-level C. Type safety, performance and clean syntax make it a favorite.
-- ⭐ **Gleam**: Functional, immutable data, and statically typed. It's a new language, but it's one I love working with!
 
 ---
 
 ## 🌐 Find Me Online
 - ✍🏻 [Personal Website and blog](https://bugwhisperer.dev/)
-- 🛖 [SourceHut](https://git.sr.ht/~bugwhisperer) - This is where most of my projects live!
+- 🗻 [Codeberg](https://codeberg.org/bugwhisperer) - This is where most of my projects live
 - 📔 [Fern](https://fern.inodelabs.org) - Terminal UI Notetakeing and Journaling app
+- 🛖 [SourceHut](https://git.sr.ht/~bugwhisperer) - Backup mirrors for codeberg projects + a few others
